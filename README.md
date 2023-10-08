@@ -8,25 +8,20 @@ Examples portrayed here will be used to evaluate your project.
 
 Creen sus ejemplos en este repo.
 
-
 ### arith.cl
 
-#### Descripción:
-arith.cl es un archivo escrito en el lenguaje COOL. Su propósito principal es demostrar y validar la implementación de operaciones aritméticas básicas y flujos lógicos para el desarrollo de un compilador.
+#### Description:
+arith.cl is a file written in the COOL language. Its primary purpose is to demonstrate and validate the implementation of basic arithmetic operations and logical flows for compiler development.
 
-#### Contenidos:
-- Clases que encapsulan operaciones y comportamientos aritméticos específicos.
-- Métodos que implementan operaciones como:
-  * Suma
-  * Resta
-  * Multiplicación
-  * División
-  * Negación
+#### Contents:
+- Classes that encapsulate specific arithmetic operations and behaviors.
+- Methods implementing operations such as:
+  * Addition
+  * Subtraction
+  * Multiplication
+  * Division
+  * Negation
 - Estructuras de control lógico, incluyendo:
-  * Condiciones (`if`, `then`, `else`, `fi`)
-  * Bucles (`while`, `loop`, `pool`)
-  
-- Una clase `Main` que actúa como punto de entrada y demuestra la funcionalidad y uso de las clases y métodos definidos.
+  * Conditional statements (if, then, else, fi)
+  * Loops (while, loop, pool)
 
-Verificación:
-El archivo cumple con su propósito al representar todas las operaciones aritméticas básicas y estructuras lógicas. Esta representación es esencial para la etapa de transformación a código intermedio en el proceso de construcción de un compilador.
